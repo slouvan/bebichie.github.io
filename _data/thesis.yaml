@@ -1,0 +1,14 @@
+
+- id: c_vania_thesis_edinburgh 
+  type: thesis
+  title: Judul
+  publisher: University of Edinburgh
+  abstract: >-
+  author:
+    - literal: Clara Vania 
+  advisor:
+    - role: Supervisor
+    - literal: Adam Lopez
+  issued:
+    date-parts:
+      - - 2015

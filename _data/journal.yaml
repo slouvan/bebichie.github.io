@@ -1,0 +1,15 @@
+---
+references:
+
+- id: reid_pseudotime_2016
+  type: article-journal
+  title: 'Automatic External Plagiarism Detection Using Passage Similarities - Lab Report for PAN at CLEF 2010.'
+  container-title: CLEF
+  source: bioinformatics.oxfordjournals.org
+  URL: http://ceur-ws.org/Vol-1176/CLEF2010wn-PAN-VaniaEt2010.pdf
+  language: en
+  author:
+    - family: Vania 
+      given: Clara
+    - family: Adriani
+      given: Mirna
